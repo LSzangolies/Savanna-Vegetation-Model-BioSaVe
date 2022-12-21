@@ -6,7 +6,7 @@ import numpy as np
 import os
 from scipy.ndimage import measurements
 from RainGenerator import RainGenerator
-from Landscape_herbivores import Landscape_herbivores
+from Landscape_herbivores_review import Landscape_herbivores
 
 
 def run_model(settings):
